@@ -1,0 +1,216 @@
+*{
+    color: white;
+    font-family: "Montserrat";
+}
+
+h1, h2, h3 {
+    display: block;
+    font-family: "Montserrat-Bold";
+    color:indianred;
+}
+
+h1{
+    font-size: 45px;
+}
+
+h2  {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    color: gray;
+}
+
+p{
+    font-style: normal;
+    text-align: left;
+    color: white;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* height: 100px;
+    width: 100px;
+    background-color: indianred; */
+    margin: 30px;
+    /* display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: space-between; */
+    /* background: transparent;
+    background-image: url(https://childreninspiredbyyoga.com/wp-content/uploads/2018/02/Cute-bunny-nose.png);
+    visibility: visible;
+    background-size: 100vw; */
+}
+
+a{
+    font-family: "Montserrat-Light";
+    right: 50px;
+}
+
+.brand-logo {
+    font-size: 2rem;
+    bottom: 0;
+    text-decoration: none;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    visibility: visible;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    width:100vw;
+    height:100vh;
+}
+
+.text{
+    position: absolute;
+    margin: 20px;
+    right: 150px;
+    bottom: 15%;
+}
+
+
+.cont-text{
+    width: 400px;
+    position: absolute;
+    bottom: 15%;
+    left:50px;
+    margin: 20px;
+    flex-wrap: wrap;
+}
+
+.one {
+    width:385px;
+}
+
+.high{
+    top:10%;
+}
+
+.btn{
+    display:block;
+    border: solid 2px white;
+    padding:10px;
+    width:175px;
+    background: transparent;
+    margin:10px;
+}
+.section-1{
+    background-image: url("https://childreninspiredbyyoga.com/wp-content/uploads/2018/02/Cute-bunny-nose.png");
+    background-position: top 0;
+}
+
+.section-2{
+    background-image: url("https://i.imgur.com/bpOnHEc.jpg");
+}
+
+.section-3{
+    background-image: url("https://www.serviceanimalregistryofcalifornia.com/wp-content/uploads/2018/11/emotional-support-rabbit.jpg");
+}
+
+.section-4{
+    background-image: url("https://www.teahub.io/photos/full/295-2958541_bunny-desktop-backgrounds.jpg");
+}
+
+.section-5{
+    background-image: url("https://www.pdsa.org.uk/media/5652/indoor-rabbits-og.png");
+    background-position: right center;
+}
+
+.section-6{
+    background-image: url("https://i.ytimg.com/vi/USZzI2inTMw/maxresdefault.jpg");
+}
+
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    bottom: 0;
+}
+
+/* .nav-item {
+    height: 100px;
+    width: 100px;
+    background-color: indianred;
+    margin: 20px;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: space-between;
+} */
+
+/* .burger {
+    margin-right: 5px;
+}
+
+.burger div {
+    width: 20px;
+    height: 2px;
+    background-color: white;
+    margin: 3px 0;
+} */
+
+/* .button {
+    background-color: Crimson;  
+    border-radius: 5px;
+    color: white;
+    padding: .5em;
+    text-decoration: none;
+  }
+  
+  .button:focus,
+  .button:hover {
+    background-color: FireBrick;
+    color: White;
+  } */
+
+/* .top-row {
+    width: 100%;
+    height: 80%;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items:center;
+}
+
+.nav-item {
+    height: 100px;
+    width: 100px;
+    background-color: indianred;
+    margin: 20px;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: space-between;
+}
+
+.nav-link {
+    font-size: 1rem;
+    font-family: "Montserrat-Light";
+    color: white;
+    text-decoration: none;
+}
+
+.brand-logo {
+    font-size: 2rem;
+    bottom: 0;
+}
+
+.top-row > a:nth-child(1) {
+    background-color: lavender;
+    flex: 20;
+} */
+
