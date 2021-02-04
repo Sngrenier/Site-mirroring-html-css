@@ -1,0 +1,272 @@
+.App {
+  display: flex;
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center;
+}
+
+.app > * {
+  padding: 10px;
+  flex: 1 100%;
+  /* font-family: "Roboto", sans-serif;
+  font-family: "Ubuntu", sans-serif; */
+  font-family: "Montserrat", sans-serif;
+  /* font-family: "Quattrocento Sans", sans-serif; */
+}
+
+body {
+  padding: 2em;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+h2 {
+  font-family: "Quattrocento Sans", sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 2.5px;
+}
+
+h3 {
+  line-height: 1.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+h4 {
+  line-height: 1.7rem;
+  font-family: "Quattrocento Sans", sans-serif;
+  font-weight: bold;
+  color: #979696;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+h5 {
+  line-height: 2.5rem;
+  font-family: "Quattrocento Sans", sans-serif;
+  font-weight: bold;
+  color: #979696;
+  letter-spacing: 0.7px;
+}
+
+h6 {
+  font-family: "Montserrat", sans-serif;
+  padding: 2%;
+  font-size: 0.6rem;
+  letter-spacing: 2.2px;
+  font-weight: 500;
+  color: #888787;
+  text-decoration: none;
+  text-align: center;
+  margin-top: 2%;
+}
+
+a {
+  font-family: "Montserrat", sans-serif;
+  padding: 40px;
+  font-size: 0.6rem;
+  letter-spacing: 2.2px;
+  font-weight: 500;
+  color: #888787;
+  text-decoration: none;
+  /* margin-bottom: 40px; */
+}
+
+a:hover {
+  color: #ffe0d7;
+}
+
+.promo-bar {
+  background: #ffe0d7;
+  text-align: center;
+  margin-left: -2em;
+  margin-right: -2em;
+  margin-top: -2.2em;
+}
+
+.search-bar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: flex-start;
+  background: transparent;
+}
+
+.brand-name {
+  width: 50%;
+  text-align: center;
+  background: transparent;
+}
+
+.search-buttons {
+  width: 24%;
+  background: transparent;
+}
+
+.greeting {
+  width: 16%;
+  text-align: left;
+  background: transparent;
+  padding-left: 25px;
+  padding-bottom: 5px;
+}
+
+.tote-icon {
+  width: 10%;
+  background: transparent;
+  margin-right: -20px;
+}
+
+.product-header {
+  background: transparent;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+.input-btn {
+  border-bottom-style: solid;
+  border-bottom-color: #979696;
+  border-right: transparent;
+  border-left: transparent;
+  border-top: transparent;
+  line-height: 2rem;
+  margin: 10px;
+  width: 300px;
+}
+.clear-btn {
+  margin: 10px;
+  line-height: 1.7rem;
+  border: transparent;
+  color: gray;
+  border-radius: 10%;
+}
+
+.clear-btn:hover {
+  background-color: #ffe0d7;
+  border: gray;
+}
+
+.catalogue {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: stretch;
+  align-content: flex-start;
+}
+
+.lookBook {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  align-content: space-around;
+  background: transparent;
+}
+
+.product-item {
+  margin: 50px;
+}
+
+.myTote {
+  width: 60%;
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: space-around;
+  box-shadow: 0 0 10px 2px #d8d7d7;
+  margin-top: 3.5%;
+  margin-right: 5%;
+}
+
+.tote-title {
+  align-content: center;
+  padding-top: 20px;
+}
+.tote-item {
+  /* margin-bottom: 20px; */
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: space-around;
+}
+
+.tote-update {
+  display: flex;
+  align-content: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: space-around;
+}
+
+.tote-btn {
+  margin: 40px;
+  line-height: 1.7rem;
+  border: transparent;
+  color: gray;
+  border-radius: 10%;
+}
+
+.tote-btn:hover {
+  background-color: #ffe0d7;
+  border: gray;
+}
+
+.tote-bag {
+  margin: 20px;
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: space-around;
+}
+
+.update-btn {
+  margin: 8px;
+  border: gray;
+  color: darkgray;
+}
+
+.update-btn:hover {
+  background-color: #ffe0d7;
+  border: gray;
+}
+
+.tote-img {
+  margin-bottom: 4%;
+}
+
+.quick-view {
+  margin: 10px;
+  line-height: 1.7rem;
+  border: transparent;
+  color: gray;
+  border-radius: 10%;
+  margin-left: 65px;
+}
+
+.quick-view:hover {
+  background-color: #ffe0d7;
+  border: gray;
+}

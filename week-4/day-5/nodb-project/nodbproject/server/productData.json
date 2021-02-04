@@ -1,0 +1,79 @@
+{ "productData": [
+    {
+        "id": 0,
+        "image2": "https://b2c-media.maxmara.com/sys-master/m0/MM/2021/1/1271011106/007/s3details/1271011106007-w-gettata_thumbnail.jpg#thumbnail",
+        "description": "Double-breasted teddy gilet in alpaca and wool, slightly oversized in fit and featuring a lapel collar and welt pockets. The buttons are embroidered in golden thread. Lined with jacquard satin monogram fabric. Horn buttons included in the packaging.",
+        "color": "Sea",
+        "size": ["XS", "S", "M", "L"]
+    },
+    {
+        "id": 1,
+        "image2": "https://b2c-media.maxmara.com/sys-master/m0/MM/2021/1/1131031106/033/s3details/1131031106033-w-extra_thumbnail.jpg#thumbnail",
+        "description": "Men’s-style trousers in pure silk charmeuse featuring double pleats and slant pockets. A tuxedo stripe runs down the side of the garment, highlighting the wide cut. Classic men’s-style fastening with front cut.",
+        "color": "Sea",
+        "size": [34, 36, 38, 40, 42, 44, 46]
+    },
+    {
+        "id": 2,
+        "image2": "https://b2c-media.maxmara.com/sys-master/m0/MM/2021/1/1111091106/032/s3details/1111091106032-w-sava_thumbnail.jpg#thumbnail",
+        "description": "Tunic in pure silk satin featuring a round neck, long sleeves and high cuffs with matching monogram buttons. The garment is longer at the rear and features a teardrop fastening with mother-of-pearl button at the back. Regular fit. Maximum length: 74 cm",
+        "color": "Ivory",
+        "size": [34, 36, 38, 40, 42, 44, 46]
+    },
+    {
+        "id": 3,
+        "image2": "https://b2c-media.maxmara.com/sys-master/m0/MM/2021/1/1361031106/012/s3details/1361031106012-w-caimano_thumbnail.jpg#thumbnail",
+        "description": "Jacquard monogram jumper in pure cashmere yarn worked in a 7-gauge stockinette stitch with asymmetric intarsia and jacquard logo. Featuring a round neck and long sleeves.",
+        "color": "Ivory/Sea",
+        "size": ["XS", "S", "M", "L"]
+    },
+    {
+        "id": 4,
+        "image2": "https://b2c-media.maxmara.com/sys-master/m0/MM/2020/2/1016090906/001/s3details/1016090906001-w-labbro_thumbnail.jpg#thumbnail",
+        "description": "Hand-stitched A-line coat in pure bonded sable cashmere with lapel collar and patch pockets. Finished with tailored binding. Featuring kimono sleeves at the front and raglan sleeves at the back. Fastens with a matching belt.",
+        "color": "Stone",
+        "size": [34, 36, 38, 40, 42, 44, 46]
+    },
+    {
+        "id": 5,
+        "image2": "https://b2c-media.maxmara.com/sys-master/m0/MM/2020/2/1046160906/001/s3details/1046160906001-w-renata_thumbnail.jpg#thumbnail",
+        "description": "Double-breasted blazer in overcheck pure wool twill, with arrow lapels, breast pocket and welt pockets with flap appliqué. The sleeves are finished with small buttons on the cuffs. Lined and tailored fit. Button fastening.",
+        "color": "Dark Stone",
+        "size": [34, 36, 38, 40, 42, 44, 46]
+    },
+    {
+        "id": 6,
+        "image2": "https://b2c-media.maxmara.com/sys-master/m0/MM/2020/2/1136120906/001/s3details/1136120906001-w-jago_thumbnail.jpg#thumbnail",
+        "description": "Wide-leg trousers in overcheck pure wool twill. Tailored garment, with double pleats at the front, French pockets at the sides and welt pockets on the back. Fastens with wide belt, covered zip and small hook.",
+        "color": "Dark Stone",
+        "size": [34, 36, 38, 40, 42, 44, 46]
+    },
+    {
+        "id": 7,
+        "image2": "https://b2c-media.maxmara.com/sys-master/m0/MM/2020/2/1226120906/004/s3details/1226120906004-w-hidalgo_thumbnail.jpg#thumbnail",
+        "description": "Robe manteau dress in stretch wool grisaille, with lapel collar, long sleeves and pencil skirt. Lined and regular fit. Button fastening and matching leather belt.",
+        "color": "Stone",
+        "size": [34, 36, 38, 40, 42, 44, 46]
+    },
+    {
+        "id": 8,
+        "image2": "https://b2c-media.maxmara.com/sys-master/m0/MM/2020/2/1226070906/001/s3details/1226070906001-w-nerine_thumbnail.jpg#thumbnail",
+        "description": "Longuette dress in cady, with round neck and short sleeves. Featuring a flounce motif on the left side. Lined and regular fit. Zip fastening at the back.",
+        "color": "Silk",
+        "size": [34, 36, 38, 40, 42, 44, 46]
+    },
+    {
+        "id": 9,
+        "image2": "https://b2c-media.maxmara.com/sys-master/m0/MM/2020/2/1226120406/002/s3details/1226120406002-w-zelante_thumbnail.jpg#thumbnail",
+        "description": "Georgette midi dress in pure printed silk, with foulard neck and short raglan sleeves. Flared skirt finished with flounce at the hem. Lined and regular fit. Zip fastening and matching belt.",
+        "color": "Cornflower",
+        "size": [34, 36, 38, 40, 42, 44, 46]
+    },
+    {
+        "id": 10,
+        "image2": "https://b2c-media.maxmara.com/sys-master/m0/MM/2021/1/1241011406/004/s3details/1241011406004-w-simpaty_thumbnail.jpg#thumbnail",
+        "description": "Cady tuxedo jumpsuit featuring a lapel collar, long kimono sleeves and palazzo trousers with French pockets. The collar is decorated with a hand-embroidered trim. Front snap button fastening and matching belt. Lined.",
+        "color": "Ivory",
+        "size": [34, 36, 38, 40, 42, 44, 46]
+    }
+]}  
