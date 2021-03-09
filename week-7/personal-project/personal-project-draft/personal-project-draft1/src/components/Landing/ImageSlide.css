@@ -1,0 +1,49 @@
+/* CAROUSEL */
+.image-slider {
+  display: flex;
+  justify-content: stretch;
+  align-items: stretch;
+  visibility: visible;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  background-color: transparent;
+  border-color: transparent;
+  color: #fff;
+  margin: 15px;
+  font-size: 1rem;
+}
+
+.img-slider {
+  height: 100vh;
+  width: 100vw;
+  display: contain;
+  overflow: hidden;
+}
+
+.carousel-link {
+  font-family: "Quattrocento Sans", sans-serif;
+  font-size: 1rem;
+  letter-spacing: 2.5px;
+  text-decoration: none;
+}
+
+.carousel-caption {
+  position: absolute;
+  margin-bottom: 20%;
+  text-align: right;
+  color: var(--mainWhite);
+}
+/* .rec.rec-pagination {
+  color: transparent;
+  border-color: lightblue;
+}
+
+.rec.rec-pagination:hover {
+  color: white;
+} */
+
+.carousel {
+  width: 105vw;
+  margin-left: -5.5%;
+}

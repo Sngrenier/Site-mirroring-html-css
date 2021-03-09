@@ -1,0 +1,86 @@
+/* LOWER LANDING COMPONENT */
+/* @font-face {
+  font-family: "BaronSans-UltraHairline";
+  src: url("/fonts/BaronSans/BaronSans-UltraHairline.otf");
+} */
+
+.lower-landing {
+  padding-right: 5% !important;
+  margin-left: -2% !important;
+  /* display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start; */
+}
+
+.first-set {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+  margin-top: 2%;
+}
+
+@media screen and (min-width: 200px) and (max-width: 890px) {
+  .first-set {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    padding: 5%;
+    margin-left: 25%;
+  }
+}
+
+.landing-img1 {
+  margin-right: 5%;
+}
+
+.l-img1 {
+  height: 90vh;
+}
+
+.landing-img2 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: flex-start;
+}
+
+.l-img2 {
+  display: flex;
+  align-items: flex-start;
+  width: 60% !important;
+  align-items: center;
+  margin-bottom: 5%;
+}
+
+@media screen and (min-width: 200px) and (max-width: 900px) {
+  .l-img2 {
+    display: none;
+  }
+}
+
+.landing-img-text-1 {
+  font-family: "Lato", sans-serif;
+  font-size: 8.5rem;
+  margin-top: 10%;
+  padding-top: 3%;
+  line-height: 1;
+}
+
+.landing-img-text-2 {
+  font-size: 0.5rem;
+  letter-spacing: 0.1rem;
+  /* padding-bottom: 15%; */
+  padding-right: 1%;
+  padding-left: 1%;
+}
